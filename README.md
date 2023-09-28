@@ -1,4 +1,4 @@
-# 🏄‍♂️ corneliascode
+# 📊 Corneliascode
 
 **`Data Science enthusiast`**
 
