@@ -1,6 +1,26 @@
-# 📊 Corneliascode
 
-**`Data Science enthusiast`**
+</p>
+<div align="center">
+<h2>Corneliascode</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=300&pause=1000&color=E3F7F0&vCenter=true&width=435&lines=Data+Science+entushiast+%F0%9F%93%8A;Always+learning+new+things+" alt="Typing SVG /></a>">
+</p>
+
+
+
+<div align="center">
+<h2>Skills</h2>
+
+![Git](https://img.shields.io/badge/-python-000?&style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/-R-000?&style=for-the-badge&logo=R)
+![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
+![Git](https://img.shields.io/badge/-mariadb-000?&style=for-the-badge&logo=mariadb)
+![Git](https://img.shields.io/badge/-postgresql-000?&style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/-mongodb-000?&style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/-jupyter-000?&style=for-the-badge&logo=jupyter)
+![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
+
+
+
+
