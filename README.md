@@ -4,7 +4,7 @@
 <h2>Corneliascode</h2>
 
 <p align="center">
-  <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=300&pause=1000&color=E3F7F0&vCenter=true&width=435&lines=Data+Science+entushiast+%F0%9F%93%8A;Always+learning+new+things+" alt="Typing SVG /></a>">
+  <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=300&pause=1000&color=E3F7F0&vCenter=true&width=435&lines=Data+Science+enthusiast+%F0%9F%93%8A;Always+learning+new+things+" alt="Typing SVG /></a>">
 </p>
 
 
